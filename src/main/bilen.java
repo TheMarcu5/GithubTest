@@ -15,6 +15,9 @@ public class bilen {
     public bilen (){
         
     }
+    public bilen(String brand){
+        this.brand = brand;
+    }
 
     public String getBrand() {
         return brand;
