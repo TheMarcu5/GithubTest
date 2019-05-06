@@ -10,5 +10,6 @@ package main;
  * @author marcu
  */
 public class style {
+    private String shape;
     
 }
